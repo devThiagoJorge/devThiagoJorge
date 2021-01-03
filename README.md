@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. Let me present a little bit about myself for you...
+
+### About me
+
+My name is Thiago Vinicius Jorge and I currently live in Matão, São Paulo - Brazil.
+
+I'm working as Systems Developer Analyst at Programmer's - Beyond IT and studying System Analysis and Development at Fatec Taquaritinga.
+
+In my free time I like play games with my friends, learning new things
 <!--
 **devThiagoJorge/devThiagoJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
