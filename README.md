@@ -37,6 +37,11 @@ Please feel free to contact me if you want to!
 [1]: https://www.linkedin.com/in/thiago-jorge-b6346417a/
 [2]: https://www.instagram.com/thiagovjorge/
 
+## Progress
+![Github stats](https://github-readme-stats.vercel.app/api?username=devThiagoJorge&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=devThiagoJorge&layout=compact)
+
 
 
 
