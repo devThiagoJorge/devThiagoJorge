@@ -12,7 +12,7 @@ Please feel free to contact me if you want to!
 
 ## Detailed information
 * Name: Thiago Vinicius Jorge
-* Age: 20
+* Age: 21
 * Living in: Matão, São Paulo - Brazil
 * Main tech stack: C# - Angular
 * Secondary tech stack: Node.js - TypeScript
