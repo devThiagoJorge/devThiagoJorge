@@ -15,7 +15,6 @@ Please feel free to contact me if you want to!
 * Age: 21
 * Living in: Matão, São Paulo - Brazil
 * Main tech stack: C# - Angular
-* Secondary tech stack: Node.js - TypeScript
 * University course: System Analysis and Development at Fatec Taquaritinga
 
 ## Currently focused on
