@@ -8,18 +8,9 @@ I'm working as Systems Developer Analyst at Programmer's - Beyond IT and studyin
 
 In my free time I like play games with my friends, learning new things about technology, walk with my 🐶, pratice my English and read some books.
 
-Please feel free to contact me if you want to!
-
-## Detailed information
-* Name: Thiago Vinicius Jorge
-* Age: 21
-* Living in: Matão, São Paulo - Brazil
-* Main tech stack: C# - Angular
-* University course: System Analysis and Development at Fatec Taquaritinga
 
 ## Currently focused on
 * Obtain the Microsoft Exam AZ-900: Microsoft Azure Fundamentals
-* Finish my university
 * Improve my english 
 
 ## Contacts
