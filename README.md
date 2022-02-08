@@ -1,11 +1,11 @@
 ### Hi there 👋
 Welcome to my GitHub profile. Let me present a little bit about myself for you...
 
-### About me
+## About me
 My name is Thiago Vinicius Jorge and I currently live in Matão, São Paulo - Brazil.
 I started working in 2019 with an internship opportunity and I haven't stopped ever since!
 
-### Background
+## Background
 Scrum
 Git
 REST APIs
@@ -15,7 +15,7 @@ Azure
 SQL Server
 Ruby on Rails
 
-### Additional knowledge
+## Additional knowledge
 JavaScript
 TypeScript
 Node.js
